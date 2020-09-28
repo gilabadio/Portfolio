@@ -160,7 +160,7 @@ header nav ul li a {
     grid-column: 3 / span 1;
     grid-row: 2 / span 1;
     background-size: cover;
-    background-image: url("./assets/images/place-holder-2.jpg");
+    background-image: url("./assets/images/movie-nights.png");
     opacity: 0.75;
 }
 
